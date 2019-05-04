@@ -1,5 +1,3 @@
 # style-transfer-tmcs-2019
 
-Edited README
-
-
+Materials for TMCS software development course, 15-17 May 2019
